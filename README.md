@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 You can reach me at giles.jay@northeastern.edu
 
 <!--
 **bluesjayx/bluesjayx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
